@@ -1,14 +1,14 @@
 # Offensive-Security-Fieldbook 🛡️
 
-This repository contains my personal notes, scripts, and labs from my journey to becoming a professional Red Teamer, Malware Developer, and Web Security Expert.
+This repository is my personal fieldbook for mastering Red Teaming, Malware Development, and Web Security.
 
 ## 📁 Structure
 
-- 🔐 `RedTeam/` – Initial access, phishing, AD attacks, AV evasion...
-- 💀 `MalwareDevelopment/` – Shellcode injection, Windows API, loaders...
-- 🌍 `BugBounty/` – Web attacks, recon, Burp automation, real reports
-- 🧪 `Labs/` – Lab setups and vulnerable environments
+- **🔐 RedTeam/** — Initial access, phishing, Active Directory attacks, AV evasion...
+- **💀 MalwareDevelopment/** — Shellcode injection, Windows API, loaders, obfuscation...
+- **🌍 BugBounty/** — Web attacks, recon tools, Burp Suite automation, real-world reports
+- **🧪 Labs/** — Lab environments, vulnerable AD setups, simulation scenarios
 
 ## 🚧 Status
 
-📚 Actively learning — I update this repo weekly
+- 📚 **Actively learning** — This repo is updated weekly as I progress in my journey.
